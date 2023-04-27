@@ -4,5 +4,7 @@ remotta kodlar ekledim.
 bazı kodlar yazdım.
 
 burada çakışma olacak
+
 hakan branchi kod yazdi.
+
 

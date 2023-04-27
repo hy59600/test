@@ -4,4 +4,7 @@ remotta kodlar ekledim.
 bazı kodlar yazdım.
 
 burada çakışma olacak
-diğer developer burada kod yazdı.
+
+hakan branchi kod yazdi.
+
+
